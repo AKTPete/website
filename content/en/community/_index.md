@@ -30,6 +30,6 @@ Connect with us on any of these platforms and join the conversation!
 * **[GitHub:](https://github.com/akash-network)** All the project and issue tracking, plus of course code.
 * **[Discord:](https://discord.akash.network)** With 100+ channels for developers, you'll find one that fits your needs.
 * **[Telegram:](https://t.me/AkashNW)** To discuss Akash Network with other non-technical community members.
-* **[Reddit:](https://www.reddit.com/r/akashnetwork/)** Connect with over 5,200+ redittors on Akash Network Subreddit.
+* **[Reddit:](https://www.reddit.com/r/akashnetwork/)** Connect with over 5,200+ redittors on the Akash Network Subreddit.
 * **[YouTube:](https://www.youtube.com/@AkashNetwork)** Check out Akash Network's Youtube channel.
 * **[Community Forums](https://forum.akash.network)** Topic-based technical discussions that bridge docs, troubleshooting, and so much more.
